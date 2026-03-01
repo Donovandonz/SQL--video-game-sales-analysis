@@ -1,4 +1,4 @@
-# SQL--video-game-sales-analysis
+![StandingOvationGIF](https://github.com/user-attachments/assets/47de62dc-86cf-477f-93ca-8df9abf81200)# SQL--video-game-sales-analysis
 🎮 Video Game Sales SQL Project
 
 ## 📌 Project Overview
@@ -376,9 +376,14 @@ The **GTA and Red Dead franchises** prove that **quality over quantity** wins. W
 
 ---
 
-🛠️ Full Data analysis code (SQL)
+🛠️ 👇Full Data analysis code (SQL)👇
 
 -<a href="https://github.com/Donovandonz/SQL--video-game-sales-analysis/blob/main/vg_sales_db_portolio%20SQL.sql">Videogame-sales-analysis</a>
+
+---
+## Dasboard Overview
+
+-<a href="https://github.com/Donovandonz/Tableau--videogame-dashboard">Videogame-dashboard</a>
 
 
 
