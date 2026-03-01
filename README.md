@@ -374,6 +374,11 @@ The **GTA and Red Dead franchises** prove that **quality over quantity** wins. W
 - **Call of Duty effect** - works on any platform
 - **17% higher on X360** - Microsoft partnership advantage
 
+---
+
+🛠️ Full Data analysis code (SQL)
+
+-<a href="https://github.com/Donovandonz/SQL--video-game-sales-analysis/blob/main/vg_sales_db_portolio%20SQL.sql">Videogame-sales-analysis</a>
 
 
 
