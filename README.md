@@ -1,4 +1,4 @@
-![StandingOvationGIF](https://github.com/user-attachments/assets/47de62dc-86cf-477f-93ca-8df9abf81200)# SQL--video-game-sales-analysis
+# SQL--video-game-sales-analysis
 🎮 Video Game Sales SQL Project
 
 ## 📌 Project Overview
